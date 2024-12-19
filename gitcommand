@@ -1,0 +1,7 @@
+git log
+history
+git log --oneline
+git log --oneline --stat
+git log --oneline --stat --patch
+git show ........ (commitid)
+git history
