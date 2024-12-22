@@ -5,3 +5,8 @@ git log --oneline --stat
 git log --oneline --stat --patch
 git show ........ (commitid)
 git history
+
+git merge --abort (it will discard current mergeconflict)
+git merge mergetest (mergetest branch will merge into current branch (head) mostly main branch)
+
+ctrl + z (conflict merge undo)
