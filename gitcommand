@@ -12,3 +12,5 @@ git merge mergetest (mergetest branch will merge into current branch (head) most
 ctrl + z (conflict merge undo)
 
 git commit1
+
+git commit2
